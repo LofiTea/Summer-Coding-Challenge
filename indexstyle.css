@@ -1,0 +1,147 @@
+@charset "UTF-8";
+
+#title {
+    width: 600px;
+    height: 100px;
+    padding-left: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    background-color: #27B0AE;
+		}
+#intro {
+    width: 600px;
+    height: 250px;
+    padding-left: auto;
+    padding-right: auto;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #47299C;
+}
+	
+#title p {
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-style: italic;
+    font-weight: 200;
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+}
+	
+
+#title h1 {
+    color: #112AD3;
+    font-style: normal;
+    text-align: center;
+    font-size: 25px;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+#intro p {
+    color: #FFFBFB;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-size: large;
+    text-align: left;
+}
+#description {
+    width: 600px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #3A2DC3;
+	margin-top: 15px;
+}
+#description h2 {
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    text-align: center;
+    color: #FFFAFA;
+    font-size: 30px;
+}
+p {
+    color: #FFF8F8;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-size: large;
+    font-weight: normal;
+    text-align: left;
+}
+
+.images {
+    width: 220px;
+    height: 190px;
+    border: 1px solid #030303;
+}
+.optionbox1 {
+    width: 250px;
+    height: 250px;
+    float: left;
+    padding-left: 30px;
+}
+
+.optionbox2 {
+    width: 250px;
+    height: 250px;
+    float: right;
+    padding-left: 30px;
+}
+
+#ender {
+    width: 600px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #BB5D28;
+	
+}
+#container {
+    height: auto;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+	background-color: antiquewhite;
+}
+
+#box1 {
+    width: 600px;
+    height: 260px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #C7D9D5;
+	margin-top: 15px;
+}
+
+#box2 {
+    width: 600px;
+    height: 260px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #C7D9D5;	
+	margin-top: 15px;
+}
+
+#box3 {
+    width: 600px;
+    height: 260px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #C7D9D5;
+    margin-top: 15px;
+}
+
+a {
+    color: #549D33;
+    font-size: large;
+}
+a:hover {
+    color: #6018B9;
+    font-weight: bold;
+}
+#finish {
+    width: 600px;
+    height: 100px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #3E8443;
+}
+
+
